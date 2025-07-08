@@ -1,0 +1,15 @@
+{
+    "name": "aravind",
+    "age": 27,
+    "interst":"reading",
+    "Free time":"seeing utube",
+    "address": {
+    "street": "123 Main St",
+    "zipcode": "10001"
+  },
+  "courses": [
+    "Math",
+    "Science",
+    "History"
+  ]
+}
